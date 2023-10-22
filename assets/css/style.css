@@ -1,0 +1,23 @@
+.wishlist-button{
+    background-color: burlywood;
+    padding: 6px;
+    border: none;
+}
+.wishlist-button:hover{
+    cursor: pointer;
+}
+.wishlist_items_menu{
+    list-style: none;
+    flex: 0 0 45%;
+    display: grid;
+    justify-items: center;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+}
+.wishlist_items{
+    text-decoration: none;
+}
+.wishlist_menu{
+    display: flex;
+    flex-wrap: wrap;
+}
